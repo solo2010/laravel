@@ -12,7 +12,7 @@
 				<a class="navbar-brand" href="{{ URL::to('nerds') }}">Nerdos.com</a>
 			</div>
 			<ul class="nav navbar-nav">
-				<li><a href="{{ URL::to('nerds') }}">Ver todos los Nerdos</a></li>
+				<li><a href="{{ URL::to('nerds') }}">Ver a todos los Nerdos</a></li>
 				<li><a href="{{ URL::to('nerds/create') }}">Crear un Nerdo</a></li>
 			</ul>
 		</nav>
